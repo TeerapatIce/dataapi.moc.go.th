@@ -1,5 +1,12 @@
 {
-  "profile": {
-    "name": "phongsakornm"
+  "dataapi": {
+    "product_id":"R11053",
+    "product_name":"ข้าวเปลือกเจ้า 5% นาปรัง จ.สุพรรณบุรี",
+    "category_name":"ขายส่ง",
+    "group_name":"ราคาขายส่งข้าว ผลิตภัณฑ์ข้าวและกระสอบป่าน",
+    "price_min_avg":8938.235294117647058823529412,
+    "price_max_avg":9041.176470588235294117647059,
+    "price_min":9300.0,
+    "price_max":9500.0
   }
 }
